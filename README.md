@@ -1,5 +1,2 @@
-- 👋 Hi, I’m Kaya!
-- 👀 I’m interested in swift programing languge..
-- 🌱 I’m currently learning c++ and swift
-- 📫 You can contact me on katarinaks998@gmail.com 
-- 👀 I do HTML,JavaScript as a freleencer  
+- 👋 Hi, I’m Katarina!
+- 👀 I am currently a third-year student at the Technical University of Varna, majoring in Software and Internet Technology. 
