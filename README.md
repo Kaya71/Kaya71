@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Katarina!
-- 👀 I am currently a third-year student at the Technical University of Varna, majoring in Software and Internet Technology. 
+- 👋 Hi!
+- 👀 
